@@ -2,3 +2,4 @@
 processhacker
 wireshark
 update
+veracrypt
